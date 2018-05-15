@@ -8,9 +8,7 @@
 此系列目前 完全开源 并且免费。如果觉得好的请打赏在下😄，可以让我花费更多的时间在区块链教学事业上。🙏 <br>
 
 btc：1AtoS316CaX4PBafM4yZf8pouWarqzAwxC
-
 <br>
-
 eth：0xE106b70e2e29eed2312f5fe9CC2AB0A305F47665
 
 Agenda
